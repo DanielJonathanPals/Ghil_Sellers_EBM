@@ -3,6 +3,11 @@ uuid = "1187debd-8644-447b-af60-4f8a01fd9ac9"
 authors = ["Daniel Pals <Daniel.Pals@tum.de>"]
 version = "0.1.0"
 
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1.7.2"
 
