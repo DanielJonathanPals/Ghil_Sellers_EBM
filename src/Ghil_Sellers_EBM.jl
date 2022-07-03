@@ -1,5 +1,8 @@
 module Ghil_Sellers_EBM
 
-# Write your package code here.
+    include("fcts.jl")
+    export Grid
+    export ghilsellers_ebm!
+    export ContinousGhilSellersParameters
 
 end

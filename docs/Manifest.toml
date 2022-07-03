@@ -28,7 +28,9 @@ uuid = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 version = "0.27.19"
 
 [[deps.Ghil_Sellers_EBM]]
-path = ".."
+git-tree-sha1 = "612435ae0a7c58faeaa9ddaadc498bb8c531eb60"
+repo-rev = "master"
+repo-url = ".."
 uuid = "1187debd-8644-447b-af60-4f8a01fd9ac9"
 version = "0.1.0"
 
