@@ -1,0 +1,13 @@
+name = "Ghil_Sellers_EBM"
+uuid = "1187debd-8644-447b-af60-4f8a01fd9ac9"
+authors = ["Daniel Pals <Daniel.Pals@tum.de>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7.2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
